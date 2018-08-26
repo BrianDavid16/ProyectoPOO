@@ -17,6 +17,7 @@ public class Vending {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ptos");
+        System.out.println("bbs");
     }
     
 }
